@@ -1,0 +1,11 @@
+package Excercises;
+
+public class TestScoreStatistics {
+
+	public static void main(String[] args)
+{
+		
+
+	}
+
+}
